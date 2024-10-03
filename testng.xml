@@ -5,7 +5,7 @@
     <classes>
       <class name="sawislogin.NewTest">
      	 <methods>
-			<exclude name="@AfterTest"></exclude>
+	    <exclude name="@AfterTest"></exclude>
         </methods>
       </class>	 
     </classes>
